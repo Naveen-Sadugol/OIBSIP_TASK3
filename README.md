@@ -6,3 +6,5 @@ The to-do web app allows users to add new items to a list. Also, a user can mark
 
 I also add a separate section titled Pending Tasks that will list all the tasks that require completion.  Irrespective of the list, a user can also be able to delete or edit tasks from it.
 
+Used javascript to perform add , delete ,etc for the tasks entered by user.Also used different CSS properties!
+
